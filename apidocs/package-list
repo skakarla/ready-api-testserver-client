@@ -1,7 +1,9 @@
 com.smartbear.readyapi.client
+com.smartbear.readyapi.client.api
 com.smartbear.readyapi.client.assertions
 com.smartbear.readyapi.client.auth
 com.smartbear.readyapi.client.execution
+com.smartbear.readyapi.client.model
 com.smartbear.readyapi.client.result
 com.smartbear.readyapi.client.teststeps
 com.smartbear.readyapi.client.teststeps.datasource
@@ -12,3 +14,4 @@ com.smartbear.readyapi.client.teststeps.propertytransfer
 com.smartbear.readyapi.client.teststeps.request
 com.smartbear.readyapi.client.teststeps.restrequest
 com.smartbear.readyapi.client.teststeps.soaprequest
+io.swagger.client
