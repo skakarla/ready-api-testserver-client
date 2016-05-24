@@ -1,0 +1,14 @@
+com.smartbear.readyapi.client
+com.smartbear.readyapi.client.assertions
+com.smartbear.readyapi.client.auth
+com.smartbear.readyapi.client.execution
+com.smartbear.readyapi.client.result
+com.smartbear.readyapi.client.teststeps
+com.smartbear.readyapi.client.teststeps.datasource
+com.smartbear.readyapi.client.teststeps.datasource.datagen
+com.smartbear.readyapi.client.teststeps.groovyscript
+com.smartbear.readyapi.client.teststeps.jdbcrequest
+com.smartbear.readyapi.client.teststeps.propertytransfer
+com.smartbear.readyapi.client.teststeps.request
+com.smartbear.readyapi.client.teststeps.restrequest
+com.smartbear.readyapi.client.teststeps.soaprequest
